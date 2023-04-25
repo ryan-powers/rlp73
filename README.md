@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan
 - 👀 I’m interested in all things civic tech!
-- 🌱 I’m currently learning Python
+- 🌱 Messing around with side projects. 
 - 📫 How to reach me rlp73@georgetown.edu
 
 <!---
